@@ -108,8 +108,8 @@ export function AboutSection() {
               preload="metadata"
               className="w-full h-full object-cover"
             >
-              <source src="/bosque-profano.mp4" type="video/mp4" />
-              Seu navegador não suporta vídeos HTML5.
+               <source src="https://amm8jwplxu6c89al.public.blob.vercel-storage.com/bosque-profano.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeos HTML5.
             </video>
           </div>
         </div>
